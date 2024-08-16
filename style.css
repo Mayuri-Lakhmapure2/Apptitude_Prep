@@ -107,8 +107,8 @@ ul li :hover{
 
 #hero h1{
     font-size: 37px;
-
 }
+
 #hero p {
     font-size: 16px;
 }
@@ -150,6 +150,7 @@ ul li :hover{
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-around;
+    margin-bottom: 20px;
 }
 
 #features .card{
@@ -162,8 +163,8 @@ ul li :hover{
     border:2px solid #cce7d0;
     margin:30px 40px;
     transition: box-shadow 0.3s;
-
 }
+
 #features .card:hover{
     box-shadow: 2px 2px 5px black;
 }
@@ -176,3 +177,109 @@ ul li :hover{
     font-size: 12px;
 }
 
+#explore{
+    background-image: url(image/banner_img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    height: 200px;
+    width:100%;
+    padding:20px;
+    /* background-color: #588157;
+    color:white; */
+}
+#explore div{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;  
+    color:white;
+}
+
+#explore div h1{
+    font-size: 40px;
+}
+
+#explore div p{
+    padding-bottom: 30px;
+}
+
+#explore div button {
+    padding:7px 25px;
+}
+
+#explore div button:hover{
+    background-color: #faa307;
+}
+
+.company{
+    text-align: center;
+    margin:25px;
+}
+.company h1{
+    opacity:0.8;
+}
+.company p {
+    opacity:0.6;
+}
+
+#color{
+    color:#faa307;
+    font-weight: 700;
+}
+
+#companies{
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    margin:0px 130px;
+
+}
+
+#companies .com_logo img{
+    height:100px;
+    width:140px;
+}
+
+#companies .com_logo{
+    margin: 10px 50px;
+}
+
+.many_more{
+    text-align: center;
+    opacity: 0.6;
+    padding-bottom: 25px;
+}
+
+ #footer .foot_main{
+    height:250px;
+    width:100%;
+    background-color: rgb(223, 221, 221);
+    display:flex;
+   padding-top:35px;
+    justify-content: space-around;
+}
+
+.foot_main div a {
+    text-decoration: none;
+    color:black;
+}
+
+.foot_main .about a {
+    opacity: 0.6;
+}
+
+.foot_main .My_account a {
+    opacity:0.6;
+}
+
+.foot_main .Contact p {
+    opacity: o.5;
+}
+
+.foot_main .Contact .icons {
+    font-size: 22px;
+    opacity: 0.7;
+}
+
+.foot_main .Contact .icons:hover{
+    opacity: 1;
+}
