@@ -1,0 +1,60 @@
+{
+    "tcs": {
+      "name": "tcs",
+
+      "questions": [
+        {
+          "Que": "Who is the “father” of artificial intelligence?",
+          "option1": "Fisher Ada",
+          "option2": "John McCarthy",
+          "option3": "Allen Newell",
+          "option4": " Alan Turning"
+        },
+        {
+          "Que": "The performance of an agent can be improved by",
+          "option1": "Learning",
+          "option2": " Observing",
+          "option3": "Perceiving",
+          "option4": " None of the mentioned"
+        },
+        {
+          "Que": "Which of the following approach should be used if you can’t fix the variable ?",
+          "option1": "randomize it",
+          "option2": "non stratify it",
+          "option3": "generalize it",
+          "option4": "  none of the Mentioned"
+        }
+      ]
+    },
+
+    "wipro" :{
+      "name" : "wipro",
+
+      "questions": [
+        {
+          "Que": "Who is the “father” of artificial intelligence?",
+          "option1": "Fisher Ada",
+          "option2": "John McCarthy",
+          "option3": "Allen Newell",
+          "option4": " Alan Turning"
+        },
+        {
+          "Que": "The performance of an agent can be improved by",
+          "option1": "Learning",
+          "option2": " Observing",
+          "option3": "Perceiving",
+          "option4": " None of the mentioned"
+        },
+        {
+          "Que": "Which of the following approach should be used if you can’t fix the variable ?",
+          "option1": "randomize it",
+          "option2": "non stratify it",
+          "option3": "generalize it",
+          "option4": "  none of the Mentioned"
+        }
+      ]
+
+
+    }
+
+  }
