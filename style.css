@@ -7,15 +7,9 @@
     
 }
 
-.logo{
-    height :40px;
-    width:130px;
-    background-color: #faa307;
-    color:black;
-    text-align: center;
-    padding-top: 7px;
-    font-weight: 700;
-    cursor: pointer;
+#logo{
+    height:75px;
+    width:75px;
 }
 
 header{
@@ -27,6 +21,9 @@ header{
     font-size: 20px;
     
 }
+
+
+
 #click{
     color:#faa307;
 }
@@ -85,7 +82,7 @@ ul li :hover{
 }
 
 #hero{
-    background-image: url("image/Cover.jpeg");
+    background-image: url("image/project_pic_resize.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height:100vh;
@@ -96,6 +93,10 @@ ul li :hover{
     justify-content: center;
     padding: 0 80px;
     padding-bottom: 40px;
+}
+
+#hero p{
+    color: white;
 }
 
 #content{
@@ -257,6 +258,11 @@ ul li :hover{
    padding-top:35px;
     justify-content: space-around;
     
+}
+
+#logo_footer{
+    height:120px;
+    width:120px;
 }
 
 .foot_main div a {

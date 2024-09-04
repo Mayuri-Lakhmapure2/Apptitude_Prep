@@ -18,7 +18,7 @@ app.get("/ap/:username",(req,res)=>{
     if(data){
         res.render("test.ejs",{data});
     }else {
-        res.render("error.ejs",{data});
+        res.render("error.ejs",{data} );
     }
     
 })
